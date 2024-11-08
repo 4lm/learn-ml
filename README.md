@@ -3,7 +3,7 @@
 This repository documents my journey in learning Machine Learning through notes, code snippets, and hands-on projects. To deepen my understanding, I’m implementing algorithms from scratch in Python, focusing on foundational concepts and practical applications. My starting point is Andrew Ng’s [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera, and I plan to explore additional resources over time. Here are the courses I’m currently working through:
 
 1. [x] [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning), [certificate](https://coursera.org/share/031b40b2a083b0a15819b6f99447b333) earned on 2024-11-04
-2. [p] [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
+2. [ ] [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms), in progress
 3. [ ] [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
 
 ## Competitions
