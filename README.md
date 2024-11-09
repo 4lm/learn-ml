@@ -10,5 +10,5 @@ This repository documents my journey in learning Machine Learning through notes,
 
 I plan to participate in Kaggle competitions to apply what I’ve learned and improve my skills. Here are the competitions I want to enter:
 
-- [ ] [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+- [ ] [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques), in progress
 - [ ] [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
