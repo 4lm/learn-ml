@@ -8,12 +8,14 @@ Here is a summary of the notation used in this repository.
 | ------------ | ---------------- | ------ |
 | $a$          | Scalar, non-bold | -      |
 | $\mathbf{a}$ | Vector, bold     | -      |
+| $\mathbf{A}$ | Matrix, bold     | -      |
 
 ## Regression
 
 | Notation           | Description                                                                                                   | Python                                      |
 | ------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | $\mathbf{x}$       | Feature values (e.g., size)                                                                                   | `x_train: array`                            |
+| $\mathbf{x}$       | Feature matrix (e.g., size, bedrooms, ...), each row is a training example                                    | `X_train: 2D array`                         |
 | $\mathbf{y}$       | Target values (e.g., price)                                                                                   | `y_train: array`                            |
 | $x^{(i)}, y^{(i)}$ | $i$-th training example values                                                                                | `x_i: number`, `y_i: number`                |
 | $m$                | Number of training examples                                                                                   | `m: number`                                 |
