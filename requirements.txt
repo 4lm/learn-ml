@@ -3,4 +3,8 @@ jupyter
 matplotlib
 numpy
 
-azure-ai-vision-imageanalysis  # labs/azure/mslearn-ai-vision-main
+# labs/azure/mslearn-ai-vision
+# 01-analyze-images
+azure-ai-vision-imageanalysis
+# 07-custom-vision-image-classification
+azure-cognitiveservices-vision-customvision

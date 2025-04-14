@@ -1,0 +1,3 @@
+IMG_TEST_3.jpg : orange (100%)
+IMG_TEST_2.jpg : banana (100%)
+IMG_TEST_1.jpg : apple (98%)
