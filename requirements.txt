@@ -1,3 +1,6 @@
+dotenv
 jupyter
 matplotlib
 numpy
+
+azure-ai-vision-imageanalysis  # labs/azure/mslearn-ai-vision-main
